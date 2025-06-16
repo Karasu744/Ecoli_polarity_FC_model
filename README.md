@@ -48,7 +48,7 @@ To ensure correct data extraction and polarity analysis, follow the steps below 
 
 1. **Load phase contrast images** into Oufti as **channel 0**.  
 2. **Load fluorescence images** for a unipolar marker (e.g., **PopZ-mRFP**) as **channel 1**.  
-3. **Load fluorescence images** for the test protein (e.g., **PodJ-sfGFP**) as **channel 2**.
+3. **Load fluorescence images** for the test protein (e.g., **sfGFP-PodJ**) as **channel 2**.
 
 Once all image channels are loaded:
 
