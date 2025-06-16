@@ -1,6 +1,8 @@
-# E.coli Polarity Recognition using Fully Connected Model
+# *E.coli* Polarity Recognition using Fully Connected Model
 
-This repository contains the code and notebooks used for training and testing a fully connected (FC) neural network model to recognize polarity in *E.coli* cells. The analysis supports the findings reported in the associated scientific publication.
+This repository contains the code and notebooks used for training and testing a fully connected (FC) neural network model to recognize polarity in *E.coli* cells. The analysis supports the findings reported in the scientific manuscript:
+
+**"Construction and Phenotypic Classification of Synthetic Dual-Pole *Escherichia coli* Cells"**, submitted to *Communications Biology*.
 
 ## Repository Contents
 
@@ -21,3 +23,4 @@ Install dependencies via:
 
 ```bash
 pip install torch torchvision numpy matplotlib scikit-learn
+
